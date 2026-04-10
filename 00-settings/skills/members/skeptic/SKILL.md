@@ -1,5 +1,6 @@
 ---
 name: skeptic
+color: "🔴"
 description: |
   投資家・VC目線で「出資しない理由」を並べてほしいときに使う。
   「skepticとして」「投資家目線で」「VCとして」「出資できる？」で発動。
